@@ -1,4 +1,4 @@
-# ALS - Data Engineering Exercise
+# ETL - Data Engineering Exercise
 
 ### Used SQL
 
